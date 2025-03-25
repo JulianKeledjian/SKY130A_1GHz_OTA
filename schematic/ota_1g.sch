@@ -195,3 +195,10 @@ C {ipin.sym} -280 20 0 1 {name=p2 lab=Vim}
 C {ipin.sym} -1800 -260 0 0 {name=p3 lab=Vdd
 }
 C {ipin.sym} -1800 260 0 0 {name=p5 lab=Vss}
+C {sky130_fd_pr/nfet_01v8_lvt.sym} 1810 -840 0 0 {name=M18
+L=0.15
+W=1
+nf=1 mult=1
+model=nfet_01v8_lvt
+spiceprefix=X
+}
